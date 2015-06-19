@@ -1,20 +1,13 @@
 ## About
 Urban LifeStyle SDDM Theme is licensed under [GNU GPL-3.0+](http://www.gnu.org/licenses/gpl-3.0.txt).
 
-Background image "Urban LifeStyle" by [snyp](http://r0pyns.deviantart.com/) (r0pyns) was taken from [anime-pictures.net](http://anime-pictures.net/pictures/view_post/100739)
+Background image by [SpiritAJ](http://spiritaj.deviantart.com/) was taken from [deviantart.com](http://www.deviantart.com/art/Scarlet-Coven-Isis-Smite-527675879)
 
 ## Preview
-![Urban LifeStyle](https://raw.githubusercontent.com/AlfredoRamos/sddm-urbanlifestyle-theme/master/urbanlifestyle/resources/images/urbanlifestyle.jpg)
-
-## Install
-**Arch Linux** (using [pacaur](https://wiki.archlinux.org/index.php/Pacaur))
-
-```bash
-pacaur -Sa sddm-urbanlifestyle-theme
-```
+![Urban LifeStyle](https://cloud.githubusercontent.com/assets/841141/8260748/9bbd3432-1693-11e5-8b3d-1015e91da4f9.png)
 ___
 **Other GNU/Linux distros**
-* Download the [latest release](https://github.com/AlfredoRamos/sddm-urbanlifestyle-theme/releases/latest).
+* Download the [latest release](https://github.com/Wyn10/sddm-urbanlifestyle-theme/releases/latest).
 * Decompress the *.zip/*.tar.gz file.
 * Copy the ```urbanlifestyle```folder to your SDDM theme directory, by default ```/usr/share/sddm/themes```.
 
@@ -26,5 +19,3 @@ ___
 # Current theme name
 Current=urbanlifestyle
 ```
-
-The avatar image size should be at least 90x90 px. For more information, refer to the Arch wiki: [[SDDM] Changing your avatar](https://wiki.archlinux.org/index.php/SDDM#Changing_your_avatar).
